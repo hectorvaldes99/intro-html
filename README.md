@@ -1,3 +1,5 @@
+https://hectorvaldes99.github.io/intro-html/
+
 ## Your GitHub Learning Lab Repository for Intro to HTML
 
 Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
